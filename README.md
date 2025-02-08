@@ -1,13 +1,15 @@
-## I've Used
+### Platforms & Languages
 
-<img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" style="margin-right: 10px;" /><img src="https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white" style="margin-right: 10px;" /><img src="https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" style="margin-right: 5px;" />
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=opficdev&show_icons=true&title_color=1575F9&text_color=808080&theme=transparent" style="width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&title_color=1575F9&text_color=808080&theme=transparent" style="width: 49%;" />
-</div>
-<div style="margin-top: 20px;">
-  <a href="https://solved.ac/0412justin1/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=0412justin1" style="width: 100%;" />
-  </a>
-</div>
+### Tools
+
+<img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="margin-right: 5px;" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="margin-right: 5px;" />
