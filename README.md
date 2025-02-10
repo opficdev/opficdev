@@ -19,3 +19,7 @@
 <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></span>
+
+
+### 🚀 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
