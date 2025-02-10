@@ -1,6 +1,5 @@
 ### ✉️ Contact
-<span><img src="https://img.shields.io/badge/opficdev@gmail.com-D14836?
-style=flat&logo=gmail&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/-opficdev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></span>
 
 ### 💪 Skills
 
