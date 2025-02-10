@@ -1,4 +1,10 @@
-### Platforms & Languages
+### ✉️ Contact
+<span><img src="https://img.shields.io/badge/opficdev@gmail.com-D14836?
+style=flat&logo=gmail&logoColor=white" /></span>
+
+### 💪 Skills
+
+#### Platforms & Languages
 
 <span><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" /></span>
@@ -7,7 +13,7 @@
 <span><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></span>
 
 
-### Tools
+#### Tools
 
 <span><img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logoColor=white" /></span>
