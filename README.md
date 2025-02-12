@@ -12,6 +12,7 @@
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=gnu-bash&logoColor=black" /></span>
 
 
 #### Tools
