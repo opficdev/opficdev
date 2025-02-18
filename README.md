@@ -43,7 +43,7 @@
         <img src="./images/SnapPlan/light_logo.png" width="80">
     </picture>
     </td>
-    <td style="text-align: center;"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
-    <td style="text-align: center;">Under Development</td>
+    <td style="text-align: center; vertical-align: middle;"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
+    <td style="text-align: center; vertical-align: middle;">In Progress</td>
   </tr>
 </table>
