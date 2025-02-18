@@ -1,8 +1,6 @@
 ### ✉️ Contact
 <span><img src="https://img.shields.io/badge/-opficdev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></span>
 
-
-
 ### 💪 Skills
 
 #### Platforms & Languages
@@ -14,7 +12,6 @@
 <span><img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Shell-FFD500?style=flat&logo=gnu-bash&logoColor=black" /></span>
 
-
 #### Tools
 
 <span><img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" /></span>
@@ -23,6 +20,9 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></span>
 
-
 ### 🚀 Stat
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=github_dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=default">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=default">
+</picture>
