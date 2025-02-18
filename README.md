@@ -38,9 +38,9 @@
   <tr>
     <td style="text-align: center; vertical-align: middle;">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./images/SnapPlan/dark_logo.png">
-        <source media="(prefers-color-scheme: light)" srcset="./images/SnapPlan/light_logo.png">
-        <img src="./images/SnapPlan/light_logo.png">
+        <source media="(prefers-color-scheme: dark)" srcset="./images/SnapPlan/dark_logo.png" width="80">
+        <source media="(prefers-color-scheme: light)" srcset="./images/SnapPlan/light_logo.png" width="80">
+        <img src="./images/SnapPlan/light_logo.png" width="80">
     </picture>
     </td>
     <td style="text-align: center;"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
