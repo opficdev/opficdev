@@ -26,3 +26,25 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=default">
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=default">
 </picture>
+
+### 📱 App
+
+<table align="center" border="1">
+  <tr>
+    <th style="text-align: center;">App</th>
+    <th style="text-align: center;">Repository</th>
+    <th style="text-align: center;">Status</th>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/SnapPlan/dark_logo.png">
+        <source media="(prefers-color-scheme: light)" srcset="./images/SnapPlan/light_logo.png">
+        <img alt="SnapPlan" src=".images/SnapPlan/light-mode-image.png" width="100">
+      </picture>
+      <br>SnapPlan
+    </td>
+    <td style="text-align: center;"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
+    <td style="text-align: center;">Under Development</td>
+  </tr>
+</table>
