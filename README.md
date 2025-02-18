@@ -29,20 +29,19 @@
 
 ### 📱 App
 
-<table align="center" border="1">
+<table border="1">
   <tr>
     <th style="text-align: center;">App</th>
-    <th style="text-align: center;">Repository</th>
-    <th style="text-align: center;">Status</th>
+    <th style="text-align: center;" width="200">Repository</th>
+    <th style="text-align: center;" width="200">Status</th>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <picture>
+    <td style="text-align: center; vertical-align: middle;">
+    <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/SnapPlan/dark_logo.png">
         <source media="(prefers-color-scheme: light)" srcset="./images/SnapPlan/light_logo.png">
-        <img alt="SnapPlan" src=".images/SnapPlan/light-mode-image.png" width="100">
-      </picture>
-      <br>SnapPlan
+        <img src="./images/SnapPlan/light_logo.png">
+    </picture>
     </td>
     <td style="text-align: center;"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
     <td style="text-align: center;">Under Development</td>
