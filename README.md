@@ -31,19 +31,19 @@
 
 <table border="1">
   <tr>
-    <th style="text-align: center;">App</th>
-    <th style="text-align: center;" width="200">Repository</th>
-    <th style="text-align: center;" width="200">Status</th>
+    <th align="center">App</th>
+    <th align="center" width="200">Repository</th>
+    <th align="center" width="200">Status</th>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
+    <td align="center" style="vertical-align: middle;">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/SnapPlan/dark_logo.png" width="80">
         <source media="(prefers-color-scheme: light)" srcset="./images/SnapPlan/light_logo.png" width="80">
         <img src="./images/SnapPlan/light_logo.png" width="80">
     </picture>
     </td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
-    <td style="text-align: center; vertical-align: middle;">In Progress</td>
+    <td align="center"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
+    <td align="center">In Progress</td>
   </tr>
 </table>
