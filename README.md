@@ -44,6 +44,6 @@
     </picture>
     </td>
     <td align="center"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
-    <td align="center">In Progress(90%)</td>
+    <td align="center">Optimization</td>
   </tr>
 </table>
