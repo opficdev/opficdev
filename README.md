@@ -44,6 +44,6 @@
     </picture>
     </td>
     <td align="center"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
-    <td align="center">Fixing Bugs</td>
+    <td align="center">Waiting for Review</td>
   </tr>
 </table>
