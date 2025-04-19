@@ -43,7 +43,16 @@
         <img src="./images/SnapPlan/light_logo.png" width="60">
     </picture>
     </td>
-    <td align="center"><a href="https://github.com/opficdev/SwiftUI_SnapPlan">SnapPlan</a></td>
-    <td align="center">In Review</td>
+    <td align="center">
+      <a href="https://github.com/opficdev/SwiftUI_SnapPlan">
+        <img src="https://img.shields.io/badge/SnapPlan-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      Launched<br>
+      <a href="https://apps.apple.com/kr/app/snapplan/id6744652796">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" />
+      </a>
+    </td>
   </tr>
 </table>
