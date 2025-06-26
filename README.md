@@ -55,4 +55,18 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+    <picture>
+        <img src="./images/DevLog/Primary.png" width="60">
+    </picture>
+    </td>
+     <td align="center">
+      <a href="https://github.com/opficdev/SwiftUI_DevLog">
+        <img src="https://img.shields.io/badge/DevLog-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      On Progress<br>
+    </td>
 </table>
