@@ -49,10 +49,7 @@
       </a>
     </td>
     <td align="center">
-      Launched<br>
-      <a href="https://apps.apple.com/kr/app/snapplan/id6744652796">
-        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" />
-      </a>
+      Closed<br>
     </td>
   </tr>
   <tr>
