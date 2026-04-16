@@ -30,13 +30,17 @@
 
 <table border="1">
   <tr>
-    <th align="center">Library</th>
+    <th align="center" width="80">Name</th>
+    <th align="center" width="160">Category</th>
     <th align="center" width="200">Link</th>
     <th align="center" width="200">Status</th>
   </tr>
   <tr>
     <td align="center" style="vertical-align: middle;">
       Nexa
+    </td>
+    <td align="center">
+      Network
     </td>
     <td align="center">
       <a href="https://github.com/opficdev/Nexa">
@@ -53,7 +57,7 @@
 
 <table border="1">
   <tr>
-    <th align="center">App</th>
+    <th align="center" width="80">App</th>
     <th align="center" width="200">Link</th>
     <th align="center" width="200">Status</th>
   </tr>
