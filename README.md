@@ -26,6 +26,29 @@
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opficdev&layout=compact&theme=default">
 </picture>
 
+### 📚 Library
+
+<table border="1">
+  <tr>
+    <th align="center">Library</th>
+    <th align="center" width="200">Link</th>
+    <th align="center" width="200">Status</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+      Nexa
+    </td>
+    <td align="center">
+      <a href="https://github.com/opficdev/Nexa">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Deploy-FA7343?style=flat&logo=swift&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
 ### 📱 App
 
 <table border="1">
