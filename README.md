@@ -48,7 +48,7 @@
       </a>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Deploy-FA7343?style=flat&logo=swift&logoColor=white" />
+      <img src="https://img.shields.io/badge/Available%20via%20SPM-FA7343?style=flat&logo=swift&logoColor=white" />
     </td>
   </tr>
 </table>
