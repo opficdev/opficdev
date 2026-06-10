@@ -70,6 +70,14 @@
   </tr>
 </table>
 
+### 🌱 Open Source
+
+#### TCA
+
+| Project | Contribution |
+| --- | --- |
+| swift-composable-architecture | [![Authored PRs](https://img.shields.io/badge/Authored%20PRs-181717?style=flat&logo=github&logoColor=white)](https://github.com/pointfreeco/swift-composable-architecture/issues?q=is%3Apr%20author%3Aopficdev) |
+
 ### 📱 App
 
 <table border="1">
