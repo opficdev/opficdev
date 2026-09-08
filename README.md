@@ -27,6 +27,90 @@
   <img alt="Top Langs" src="https://ghstats.dev/api/langs?username=opficdev&layout=bar&bg=ffffff&text=24292f&title_color=0969da&border_color=d0d7de">
 </picture>
 
+### 🌱 Open Source
+
+#### TCA
+
+| Project | Contribution |
+| --- | --- |
+| swift-composable-architecture | [![Authored PRs](https://img.shields.io/badge/Authored%20PRs-181717?style=flat&logo=github&logoColor=white)](https://github.com/pointfreeco/swift-composable-architecture/issues?q=is%3Apr%20author%3Aopficdev) |
+
+### 📱 App
+
+<table border="1">
+  <tr>
+    <th align="center" width="220">App</th>
+    <th align="center" width="200">Link</th>
+    <th align="center" width="200">Status</th>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/SnapPlan/dark_logo.png" width="60">
+        <source media="(prefers-color-scheme: light)" srcset="./images/SnapPlan/light_logo.png" width="60">
+        <img src="./images/SnapPlan/light_logo.png" width="60">
+    </picture>
+    <br />
+    SnapPlan
+    <br />
+    <sub>사진, 위치, 음성 메모를<br />일정에 추가하는 캘린더 앱</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/opficdev/SwiftUI_SnapPlan">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      Closed<br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/MirroringBooth/dark.png" width="60">
+        <source media="(prefers-color-scheme: light)" srcset="./images/MirroringBooth/light.png" width="60">
+        <img src="./images/SnapPlan/light_logo.png" width="60">
+      </picture>
+      <br />
+      MirroringBooth
+      <br />
+      <sub>여러 Apple 기기를 연결해<br />촬영 화면을 실시간으로 확인하는<br />포토부스 앱</sub>
+    </td>
+    <td align="center">
+        <a href="https://github.com/boostcampwm2025/iOS03-dolAwang">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
+        </a>
+        <br />
+        <a href="https://apps.apple.com/kr/app/%EB%AF%B8%EB%9F%AC%EB%A7%81%EB%B6%80%EC%8A%A4/id6758043558">
+        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      Opened
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+      <img src="./images/DevLog/Primary.png" width="60">
+      <br />
+      DevLog
+      <br />
+      <sub>개발 기록, Todo, 저장 링크를<br />한 곳에서 관리하는 앱</sub>
+    </td>
+     <td align="center">
+      <a href="https://github.com/opficdev/SwiftUI_DevLog">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <a href="https://apps.apple.com/us/app/devlog/id6760288611">
+      <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      Opened
+    </td>
+</table>
+
 ### 📚 Library
 
 <table border="1">
@@ -54,6 +138,22 @@
   </tr>
   <tr>
     <td align="center" style="vertical-align: middle;">
+      Cradle
+    </td>
+    <td align="center">
+      Dependency Injection
+    </td>
+    <td align="center">
+      <a href="https://github.com/opficdev/Cradle">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Available%20via%20SPM-FA7343?style=flat&logo=swift&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
       swift-stored-property-init
     </td>
     <td align="center">
@@ -68,76 +168,4 @@
       <img src="https://img.shields.io/badge/In%20Development-0969DA?style=flat&logo=swift&logoColor=white" />
     </td>
   </tr>
-</table>
-
-### 🌱 Open Source
-
-#### TCA
-
-| Project | Contribution |
-| --- | --- |
-| swift-composable-architecture | [![Authored PRs](https://img.shields.io/badge/Authored%20PRs-181717?style=flat&logo=github&logoColor=white)](https://github.com/pointfreeco/swift-composable-architecture/issues?q=is%3Apr%20author%3Aopficdev) |
-
-### 📱 App
-
-<table border="1">
-  <tr>
-    <th align="center" width="80">App</th>
-    <th align="center" width="200">Link</th>
-    <th align="center" width="200">Status</th>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: middle;">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./images/SnapPlan/dark_logo.png" width="60">
-        <source media="(prefers-color-scheme: light)" srcset="./images/SnapPlan/light_logo.png" width="60">
-        <img src="./images/SnapPlan/light_logo.png" width="60">
-    </picture>
-    </td>
-    <td align="center">
-      <a href="https://github.com/opficdev/SwiftUI_SnapPlan">
-        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      Closed<br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: middle;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./images/MirroringBooth/dark.png" width="60">
-        <source media="(prefers-color-scheme: light)" srcset="./images/MirroringBooth/light.png" width="60">
-        <img src="./images/SnapPlan/light_logo.png" width="60">
-      </picture>
-    </td>
-    <td align="center">
-        <a href="https://github.com/boostcampwm2025/iOS03-dolAwang">
-        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
-        </a>
-        <br />
-        <a href="https://apps.apple.com/kr/app/%EB%AF%B8%EB%9F%AC%EB%A7%81%EB%B6%80%EC%8A%A4/id6758043558">
-        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      Opened
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="vertical-align: middle;">
-      <img src="./images/DevLog/Primary.png" width="60">
-    </td>
-     <td align="center">
-      <a href="https://github.com/opficdev/SwiftUI_DevLog">
-        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
-      </a>
-      <br />
-      <a href="https://apps.apple.com/us/app/devlog/id6760288611">
-      <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      Opened
-    </td>
 </table>
