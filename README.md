@@ -154,6 +154,22 @@
   </tr>
   <tr>
     <td align="center" style="vertical-align: middle;">
+      UIComposable
+    </td>
+    <td align="center">
+      UIKit to SwiftUI Bridge
+    </td>
+    <td align="center">
+      <a href="https://github.com/opficdev/UIComposable">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Available%20via%20SPM-FA7343?style=flat&logo=swift&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
       swift-stored-property-init
     </td>
     <td align="center">
