@@ -20,13 +20,6 @@
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></span>
 
-### 🚀 Stat
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=opficdev&layout=bar&bg=0d1117&text=c9d1d9&title_color=58a6ff&border_color=30363d">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghstats.dev/api/langs?username=opficdev&layout=bar&bg=ffffff&text=24292f&title_color=0969da&border_color=d0d7de">
-  <img alt="Top Langs" src="https://ghstats.dev/api/langs?username=opficdev&layout=bar&bg=ffffff&text=24292f&title_color=0969da&border_color=d0d7de">
-</picture>
-
 ### 🌱 Open Source
 
 #### TCA
@@ -39,9 +32,10 @@
 
 <table border="1">
   <tr>
-    <th align="center" width="220">App</th>
-    <th align="center" width="200">Link</th>
-    <th align="center" width="200">Status</th>
+    <th align="center" width="120">App</th>
+    <th align="center" width="240">Description</th>
+    <th align="center" width="160">Link</th>
+    <th align="center" width="100">Status</th>
   </tr>
   <tr>
     <td align="center" style="vertical-align: middle;">
@@ -52,8 +46,9 @@
     </picture>
     <br />
     SnapPlan
-    <br />
-    <sub>사진, 위치, 음성 메모를<br />일정에 추가하는 캘린더 앱</sub>
+    </td>
+    <td align="center">
+      사진, 위치, 음성 메모를 일정에 추가하는 캘린더 앱
     </td>
     <td align="center">
       <a href="https://github.com/opficdev/SwiftUI_SnapPlan">
@@ -73,8 +68,9 @@
       </picture>
       <br />
       MirroringBooth
-      <br />
-      <sub>여러 Apple 기기를 연결해<br />촬영 화면을 실시간으로 확인하는<br />포토부스 앱</sub>
+    </td>
+    <td align="center">
+      여러 Apple 기기를 연결해 촬영 화면을 실시간으로 확인하는 포토부스 앱
     </td>
     <td align="center">
         <a href="https://github.com/boostcampwm2025/iOS03-dolAwang">
@@ -94,8 +90,9 @@
       <img src="./images/DevLog/Primary.png" width="60">
       <br />
       DevLog
-      <br />
-      <sub>개발 기록, Todo, 저장 링크를<br />한 곳에서 관리하는 앱</sub>
+    </td>
+    <td align="center">
+      개발 기록, Todo, 저장 링크를 한 곳에서 관리하는 앱
     </td>
      <td align="center">
       <a href="https://github.com/opficdev/SwiftUI_DevLog">
@@ -109,6 +106,7 @@
     <td align="center">
       Opened
     </td>
+  </tr>
 </table>
 
 ### 📚 Library
