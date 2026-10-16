@@ -13,6 +13,7 @@
 
 #### Tools
 
+<span><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" /></span>
 <span><img src="./images/Codex/badge.svg" alt="Codex badge" /></span>
 <span><img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" /></span>
 <span><img src="./images/VisualStudioCode/badge.svg" alt="Visual Studio Code badge" /></span>
@@ -105,6 +106,31 @@
     </td>
     <td align="center">
       Opened
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+      <img src="./images/Plyst/icon.png" width="60">
+      <br />
+      Plyst
+    </td>
+    <td align="center">
+      복사한 텍스트와 이미지를 모아 정리하고 다시 찾아 쓰는 클립보드 앱
+    </td>
+    <td align="center">
+      <a href="https://github.com/opficdev/Plyst">
+        <img src="https://img.shields.io/badge/UIKit-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <a href="https://github.com/opficdev/Plyst_RN">
+        <img src="https://img.shields.io/badge/React%20Native-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+      <br />
+      <a href="https://testflight.apple.com/join/BA4MaW9h">
+        <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat&logo=apple&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      Beta
     </td>
   </tr>
 </table>
