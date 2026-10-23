@@ -125,12 +125,12 @@
         <img src="https://img.shields.io/badge/React%20Native-181717?style=flat&logo=github&logoColor=white" />
       </a>
       <br />
-      <a href="https://testflight.apple.com/join/BA4MaW9h">
-        <img src="https://img.shields.io/badge/TestFlight-0D96F6?style=flat&logo=apple&logoColor=white" />
+      <a href="https://apps.apple.com/us/app/plyst/id6818818750">
+        <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=flat&logo=appstore&logoColor=white" />
       </a>
     </td>
     <td align="center">
-      Beta
+      Opened
     </td>
   </tr>
 </table>
