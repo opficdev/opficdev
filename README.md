@@ -208,4 +208,22 @@
       <img src="https://img.shields.io/badge/In%20Development-0969DA?style=flat&logo=swift&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center" style="vertical-align: middle;">
+      react-native-velo
+    </td>
+    <td align="center">
+      Native Event Stream
+    </td>
+    <td align="center">
+      <a href="https://github.com/opficdev/react-native-velo">
+        <img src="https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/opficdev/react-native-velo/releases">
+        <img src="https://img.shields.io/badge/Available%20via%20GitHub%20Releases-181717?style=flat&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
