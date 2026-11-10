@@ -5,9 +5,8 @@
 
 #### Platforms & Languages
 
-<span><img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/iPadOS-000000?style=flat&logo=apple&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/macOS%20(Designed%20for%20iPad)-000000?style=flat&logo=apple&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Native%20iOS-000000?style=flat&logo=apple&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" /></span>
 <span><img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></span>
 
