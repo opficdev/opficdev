@@ -13,10 +13,10 @@
 
 #### Tools
 
+<span><img src="./images/Orca/badge.svg" alt="Orca badge" /></span>
 <span><img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" /></span>
 <span><img src="./images/Codex/badge.svg" alt="Codex badge" /></span>
 <span><img src="https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white" /></span>
-<span><img src="./images/VisualStudioCode/badge.svg" alt="Visual Studio Code badge" /></span>
 <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></span>
